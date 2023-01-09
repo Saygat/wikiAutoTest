@@ -63,8 +63,6 @@ public class FirstTest {
                 "Cannot find search edit text",
                 5);
 
-
-
         waitForElementAndSendKeysByXpath(
                 "//*[contains(@text, 'Поиск по Википедии')]",
                 "Java",
